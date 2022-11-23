@@ -3,20 +3,18 @@
 
 
 
+
+## run
+
+
 ```
 conda create --name=LGN python=3.6
 conda activate LGN
 pip install -r requirements.txt
-```
-
-
-The dataset should consist of train/test.txt, in which each row represents a user.
-
-## run
-
-```
 cd code
 ```
+
+The dataset should consist of train/test.txt, in which each row represents a user.
 
 ### Gowalla
 
